@@ -1,0 +1,17 @@
+.newColorForm {
+  margin: 20px auto;
+  width: max-content;
+  text-align: left;
+}
+
+.newColorForm form div {
+  padding: 5px;
+}
+
+.newColorForm form div input {
+  margin: 5px;
+}
+
+.newColorForm form input {
+  margin: 10px;
+}

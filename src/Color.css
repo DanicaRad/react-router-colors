@@ -1,0 +1,26 @@
+.color {
+  height: 110vw;
+  margin: -20px;
+}
+
+.color h3 {
+  padding-top: 20vh;
+}
+
+.color button {
+  background-color: white;
+  color: black;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+}
+
+.color button a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.color button:hover {
+  opacity: 90%;
+}
